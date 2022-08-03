@@ -22,6 +22,13 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+#::::: Frontend Gems :::::::
+gem "autoprefixer-rails"
+gem "font-awesome-sass", "~> 6.1"
+gem "simple_form", github: "heartcombo/simple_form"
+gem "sassc-rails" # Uncomment this line
+
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
